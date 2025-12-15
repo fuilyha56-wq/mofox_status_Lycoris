@@ -1,0 +1,8 @@
+# Monitor Status Lite Plugin Configuration
+
+[general]
+# 是否启用插件
+enable_plugin = true
+
+# 默认显示模式 (image 或 text)
+default_mode = "image"
